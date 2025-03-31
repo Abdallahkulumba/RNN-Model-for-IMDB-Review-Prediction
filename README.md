@@ -33,7 +33,7 @@ To run the Streamlit app, use the following command in your terminal:
 streamlit run your_app_file.py
 ```
 
-Replace `your_app_file.py` with the name of your Streamlit app file. This will start a local server, and you can access the app in your web browser at `http://localhost:8501`.
+Replace `your_app_file.py` with the name of your Streamlit app file in mycase the name was 'main.py'. This will start a local server, and you can access the app in your web browser at `http://localhost:8501`.
 
 ## Usage Instructions
 
