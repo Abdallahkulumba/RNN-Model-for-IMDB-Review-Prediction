@@ -1,4 +1,4 @@
-# Simple RNN IMDB Project
+# Simple RNN IMDB review Project
 
 This project implements a Simple Recurrent Neural Network (RNN) for sentiment analysis on the IMDB movie reviews dataset. The goal is to classify movie reviews as positive or negative based on the text content.
 

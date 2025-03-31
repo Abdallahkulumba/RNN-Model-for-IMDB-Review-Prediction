@@ -28,8 +28,8 @@ def preprocess_text(text):
 import streamlit as st
 ## streamlit app
 # Streamlit app
-st.title('IMDB Movie Review Sentiment Analysis')
-st.write('Enter a movie review to classify it as positive or negative.')
+st.title('Sentiment Analysis for IMDB Movie Review ')
+st.write('Enter a movie review to classify its sentiment.')  
 
 # User input
 user_input = st.text_area('Movie Review')
